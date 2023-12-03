@@ -10,7 +10,7 @@ Insert gif or link to demo
 
 ## Deployment
 
-[Link to Deployed Application](https://www.veed.io/view/2e95a86e-0c0d-4719-b29b-b3188ded82a8)
+[Link to Deployed Application](https://dev-bhoomi.github.io/Chess-Game/)
 
 
 
