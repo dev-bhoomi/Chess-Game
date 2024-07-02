@@ -1,7 +1,38 @@
 
-# Chess-Game using react.js
+# Chess Game
 
-This project is a classic chess game implemented using React.js. It provides an interactive platform for playing chess, allowing users to make moves, visualize the board, and enjoy the strategic gameplay of chess.
+This project is a classic chess game implemented using React.js. It provides an interactive platform for playing chess, allowing users to make moves, visualize the board, and enjoy the strategic gameplay of chess. The application keeps track of all moves made by both players, offering a
+comprehensive record of the game. Users also have the option to undo moves and return to a previous
+state. Additionally, clicking on any piece highlights its possible moves, aiding players in strategizing their gameplay. 
+## Features
+
+- #### Move Tracking : 
+Keeps a detailed record of all moves made during the game, displayed alongside the board.
+
+- #### Undo Move : 
+Provides an option to take back moves, allowing users to return to a previous state in the game.
+
+- #### QMove Highlighting : 
+Clicking on any chess piece highlights all possible moves, helping players make
+informed decisions. 
+
+
+
+## Languages/Library
+### Languages
+- REACT
+- JavaScript
+- HTML
+- CSS
+
+### React Libraries
+- "@testing-library/jest-dom": "^5.17.0",
+- "@testing-library/react": "^13.4.0",
+- "@testing-library/user-event": "^13.5.0",
+- "react": "^18.2.0",
+- "react-dom": "^18.2.0",
+- "react-scripts": "5.0.1",
+- "web-vitals": "^2.1.4"
 ## Demo
 
 Insert gif or link to demo
@@ -14,9 +45,41 @@ Insert gif or link to demo
 
 
 
+
+## How to Setup
+Hey there! Just a friendly reminder to follow these steps when working on a React project:
+
+1. First, clone the project.
+2. Then, download the node_modules file.
+3. After that, run npm install my-project.
+4. Change directories to my-project.
+5. Lastly, run npm start.
+
+Hope that helps!
+## How to deploy
+[![Watch the video](https://img.youtube.com/vi/mdO18zv3oGQ/0.jpg)]
+
+# Hi, I'm dev-bhoomi! 👋
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, bootstrap and react.js
+
+
+## 🔗 Links
+https://github.com/dev-bhoomi
+
+## Used By
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
+
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Alt Text]
 
 
 ## Appendix
@@ -56,15 +119,6 @@ Any additional information goes here
 #### add(num1, num2)
 
 Takes two numbers and returns the sum.
-
-
-## Features
-
-- Responsive Design: The expanding image cards work smoothly on different devices, adapting to various screen sizes.
-
-- Interactive Experience: Click on a card, and the image elegantly expands for a closer view. Click on another, and the previous one collapses.
-
-- Easy Customization: You can easily change the images inside each card. Customize the content to showcase your favorite pictures.
 
 
 ## Authors
@@ -123,16 +177,6 @@ Please adhere to this project's `code of conduct`.
 ## Feedback
 
 If you have any feedback, please reach out to us at fake@fake.com
-
-
-# Hi, I'm dev-bhoomi! 👋
-
-
-## 🔗 Links
-https://github.com/dev-bhoomi
-
-## 🛠 Skills
-Javascript, HTML, CSS, bootstrap and react.js
 
 
 ## Installation
